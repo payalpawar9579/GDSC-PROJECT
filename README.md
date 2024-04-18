@@ -1,4 +1,4 @@
-# GDSC-PROJECT
+#its GREECE
 Description
 The website provides information about Greece, including its historical legacy, iconic landmarks, picturesque landscapes, vibrant culture, and gastronomic delights. It features a responsive design and incorporates Bootstrap components for improved styling and functionality.
 
