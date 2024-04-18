@@ -30,3 +30,6 @@ Push to the branch (git push origin feature/YourFeature)
 Create a new Pull Request
 
 <img width="1503" alt="Screenshot 2024-04-18 at 4 12 57 PM" src="https://github.com/payalpawar9579/GDSC-PROJECT/assets/123260881/1c6bda38-b86e-4f08-ab11-31a439a406cf">
+
+<img width="1501" alt="Screenshot 2024-04-18 at 4 14 51 PM" src="https://github.com/payalpawar9579/GDSC-PROJECT/assets/123260881/f2606276-1acb-4fd9-ba0d-8478d1eef748">
+
