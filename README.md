@@ -33,3 +33,4 @@ Create a new Pull Request
 
 <img width="1501" alt="Screenshot 2024-04-18 at 4 14 51 PM" src="https://github.com/payalpawar9579/GDSC-PROJECT/assets/123260881/f2606276-1acb-4fd9-ba0d-8478d1eef748">
 
+<img width="1495" alt="Screenshot 2024-04-18 at 4 25 43 PM" src="https://github.com/payalpawar9579/GDSC-PROJECT/assets/123260881/6dd8617f-3f65-4a54-a9fc-06aaa2c2706f">
